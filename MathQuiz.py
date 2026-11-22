@@ -234,7 +234,8 @@ def displayResults():
               command=root.destroy).pack(pady=5)
 
 
-# Show Menu
+# To Menu / Show
+
 displayMenu()
 
 root.mainloop()
